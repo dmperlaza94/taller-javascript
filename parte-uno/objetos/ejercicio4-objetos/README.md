@@ -1,0 +1,1 @@
+Investigar si la clave type que encontramos en él es una propiedad o un método.
